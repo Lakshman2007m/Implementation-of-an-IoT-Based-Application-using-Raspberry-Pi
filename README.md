@@ -24,8 +24,7 @@ To implement an IoT-based environmental monitoring application using Raspberry P
 ---
 
 # Circuit Diagram
-<img width="1133" height="515" alt="image" src="https://github.com/user-attachments/assets/3e2ab678-cd61-4b5e-b38c-7d9be870abe9" />
-<img width="1125" height="513" alt="image" src="https://github.com/user-attachments/assets/a3b87c18-d7df-4361-950d-a1ba696d1431" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fbea9584-e923-4263-9835-c9d511031fb7" />
 
 # IoT Application
 
